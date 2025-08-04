@@ -1,5 +1,4 @@
-# CS3_1stQtrPortfolio_Aline Teresa Mendoza
-
+# CS3_1stQtrPortfolio_Reynald_Josef Lomotan
 ![Portfolio](https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio.jpg)
 
 ## Instructions to create your CS3_1st Qtr Portfolio
