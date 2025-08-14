@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+
     <h1>Feed Me My Snacks</h1>
     <label> Enter your age
     <input id="age" />
@@ -18,11 +19,23 @@
       <input id="numPerDay" />
     </label></br/>
     
-    <p> Result :
-          <span id="resultHere"></span>
-    </p>
-    <button> Accept Input</button>
-      
-      <script src="script.js"></script>
+    <label> Enter type of snacks
+      <input id="Type" />
+    </label></br/>
+
+    <button onclick="acceptInput()"> Accept Input </button> </p>
+    </p>Result: <span id="result"></span></p>
+
+      <script>
+          function acceptInput()
+          {
+              let dGreet = document.getElementById("theResult").value;
+              document.getElementsById("result").innerHTML = `<b> ${dResult} </b>`; 
+
+            
+
+          }
+      </script>
+
   </body>
 </html>
